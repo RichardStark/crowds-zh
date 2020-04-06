@@ -33,7 +33,7 @@ SLIDES.push(
 		{
 			type:"box",
 			id:"button",
-			text:"preloader_button", x:180, y:355, w:600, h:100, align:"center"
+			text:"preloader_button", x:180, y:420, w:600, h:100, align:"center"
 		}
 
 	],
